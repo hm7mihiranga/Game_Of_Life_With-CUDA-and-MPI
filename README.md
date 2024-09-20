@@ -38,3 +38,5 @@ This command generates the ````final_one```` executable file, which is a complet
 mpirun -np 4 ./final_one
 ```
 This will execute your CUDA and MPI-based Game of Life program, utilizing both the GPU and message-passing capabilities for efficient parallel computation.
+
+From : Hasitha Mihiranga, Thank you!
