@@ -9,4 +9,4 @@ The "Game of Life" is a cellular automaton devised by John Conway, consisting of
 These simple rules lead to complex and often unpredictable patterns, making the Game of Life a classic example of emergent behavior in mathematical systems.
 
 As a Example of Preview :
-![Teaser Animation](game_of_life.gif)
+![Teaser Animation](src/game_of_life.gif)
