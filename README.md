@@ -11,7 +11,7 @@ These simple rules lead to complex and often unpredictable patterns, making the 
 As a Example of Preview : <br></br>
 ![Teaser Animation](src/game_of_life.gif)
 
-Recommended Development Environment
+## Recommended Development Environment<br></br>
 For this implementation of the Game of Life, I recommend using Visual Studio Code with a WSL (Windows Subsystem for Linux) environment. This setup provides a seamless Linux experience on a Windows machine, making it easier to work with libraries and tools that may not be supported natively on Windows. CUDA, in particular, runs more smoothly and efficiently in a Linux environment. You can follow this video tutorial(https://www.youtube.com/watch?v=NY5izJWXi0U) to set up VS Code with WSL.
 
 To set up MPI in the WSL environment, you can refer to this video guide(https://www.youtube.com/watch?v=2qInO1_Gy0w). This combination of tools ensures a smoother development experience for CUDA and MPI-based applications in C.
